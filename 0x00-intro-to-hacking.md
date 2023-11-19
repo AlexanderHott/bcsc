@@ -2,20 +2,40 @@
 tags:
   - intro
 created: 2023-11-08
-presented:
+presented: 2023-11-12
 ---
-# The Art of Hacking
 
 %%
 main points:
 - hacking is an art form
-- hacking relies on the same information as programming, just a different mindset
 - how to learn hacking?
+	- hacking relies on the same information as programming, just a different mindset
 	- learn how stuff works
 	- apply hacking mindset
 	- (profit)
 	
 %%
+# What is Hacking?
+
+---
+
+![generic hacker](./assets/00-generic-hacker.jpeg)
+
+---
+# The Art of Hacking
+
+
+---
+# Hacking is an Art Form
+
+%%
+Takes skill
+Requires creativity
+Takes an open mind
+%%
+
+---
+# How to Learn How to Hack?
 
 ---
 

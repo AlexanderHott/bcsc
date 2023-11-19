@@ -1,1 +1,4 @@
 .obsidian/
+.venv/
+*.sqlite
+__pycache__/
